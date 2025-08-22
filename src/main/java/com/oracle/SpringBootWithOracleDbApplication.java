@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootWithOracleDbApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootWithOracleDbApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootWithOracleDbApplication.class, args);
+    }
 
 }
